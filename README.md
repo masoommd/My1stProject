@@ -1,1 +1,1 @@
-# My1stProject
+# My1st_mini_Project
